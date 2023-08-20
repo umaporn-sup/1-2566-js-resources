@@ -20,7 +20,7 @@
 
 - (week#3-4) _`Expression, Operators, and Control Structures`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-expressions-ctrlstructures.git)
   - References
     - [Expression and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
     - [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
