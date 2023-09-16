@@ -52,7 +52,7 @@
 
 - (week#7) _`Objects`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-basic-array.git)
   - References
     - [Introduction JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
     - [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
