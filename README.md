@@ -62,7 +62,7 @@
 
 - (week#8) _`Array Methods`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-array-methods.git)
   - References
     - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
 
