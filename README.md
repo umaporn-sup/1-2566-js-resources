@@ -60,15 +60,15 @@
     - [Object Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#object_destructuring)
     - [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
-- (week#8) _`Array Methods`_
+- (week#8-9) _`Array Methods`_
 
   - [git repo](https://github.com/umaporn-sup/1-2566-INT201-array-methods.git)
   - References
     - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
 
-- (week#9-10) _`Working with Objects, Arrays, and Functions`_
+- (week#9-10) _`Working with Functions`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-working-functions.git)
   - References
     - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
     - [Function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
