@@ -81,7 +81,7 @@
 
 - (week#11) _`JavaScript Modules`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-js-modules.git)
   - References
     - [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
     - [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
