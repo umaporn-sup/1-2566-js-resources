@@ -91,7 +91,7 @@
 
 - (week#13) _`Document Object Model (DOM)`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-DOM.git)
   - Reference
     - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
