@@ -97,7 +97,7 @@
 
 - (week#14) _`Events`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-events.git)
   - References
     - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
     - [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
