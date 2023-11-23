@@ -89,30 +89,31 @@
 
 - (week#12) Exam#2
 
-- (week#13) _`Document Object Model (DOM)`_
+- (week#13-14) _`Document Object Model (DOM)`_
 
   - [git repo](https://github.com/umaporn-sup/1-2566-INT201-DOM.git)
   - Reference
     - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
-- (week#14) _`Events`_
+- (week#15) _`Events`_
 
   - [git repo](https://github.com/umaporn-sup/1-2566-INT201-events.git)
   - References
     - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
     - [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
-- (week#15) _`Client Side Storages`_
+- (week#16) _`Client Side Storages`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-client-storages.git)
   - References
     - [Client Storages](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
     - [Cookies](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
     - [Web Storages](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 
-- (week#16) _`Asynchronous JavaScript`_
+- [todo-app Solution](https://github.com/umaporn-sup/todo-app.git)
 
-  - [git repo]
+- Read More: _`Asynchronous JavaScript`_
+
   - References
     - [Asynchronous](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
 
